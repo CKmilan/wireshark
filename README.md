@@ -7,7 +7,7 @@ I installed Wireshark to learn how cybersecurity professionals use this tool to 
 ---
 ### 1. First start
 
-On the first start it was countless rows of data
+On the first start there were countless rows of data
 
 ![First start](screenshots/01-first-start.png)
 
