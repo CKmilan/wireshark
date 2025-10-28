@@ -93,7 +93,7 @@ Reasons could be:
 ### 1. Question
 What is the destination IP address that received the request with the payload “=${jndi:ldap://”?
 
-# Answer
+### Answer
 198.71.247.91
 
 ---
@@ -103,7 +103,7 @@ What is the destination IP address that received the request with the payload �
 ### 2. Question
 In what year was the HTTP request sent in the question above?
 
-# Answer
+### Answer
 2021
 
 ![Q2](screenshots/10-Q02.PNG)
@@ -113,7 +113,7 @@ In what year was the HTTP request sent in the question above?
 
 How many packets with destination port 80 are among all TCP packets?
 
-# Answer
+### Answer
 9410
 
 ![Q3](screenshots/11-Q03.png)
@@ -122,7 +122,7 @@ How many packets with destination port 80 are among all TCP packets?
 ### 4. Question
 How many packets were exchanged between "198.71.247.91" and "91.189.89.199"?
 
-# Answer
+### Answer
 424
 
 ![Q4](screenshots/12-Q4.png)
@@ -134,7 +134,7 @@ How many IP addresses are there trying to exploit the Log4j vulnerability by con
 
 For this question I had to use the Hint: "Search for 31.131.16.127 in HTTP packets"
 
-# Answer:
+### Answer:
 2
 
 ![Q5](screenshots/13-Q5.png)
