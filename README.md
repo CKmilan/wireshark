@@ -61,7 +61,7 @@ Add Delta Time to see the time between each captured packet
 
 TCP SYN flag shows where the 3-way Hadnshake's first part happens.
 This is where connections being opened.
-A large number of SYN packets without completion (SYN-ACK, ACK) can indicate a SYN flood attack.
+A large number of SYN packets without completion (SYN, SYN-ACK, ACK) can indicate a SYN flood attack.
 
 ![TCP SYN flag](screenshots/07-tcp-syn-flags.png)
 
